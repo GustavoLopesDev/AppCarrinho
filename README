@@ -43,10 +43,10 @@ Este projeto foi criado com fins de **estudo**, como parte de um desafio do curs
 
 ## 📷 Imagens do App
 
-- Tela de produtos
+- Tela de produtos  
   <img src="./assets/homeCarrinho.png" width="250" />
 
-- Carrinho com itens
+- Carrinho com itens  
   <img src="./assets/listCarrinho.png" width="250" />
 
 ---
@@ -57,10 +57,10 @@ Siga o passo a passo abaixo:
 
 ### 1. Clone o repositório
 
-```bash
+````bash
 git clone https://github.com/GustavoLopesDev/AppCarrinho.git
 cd AppCarrinho
-```
+
 
 ## 🧪 Instalação e Execução
 
@@ -83,7 +83,7 @@ Verifique se o dispositivo está conectado corretamente:
 
 ```bash
 npx react-native doctor
-```
+````
 
 ---
 
